@@ -1,0 +1,12 @@
+Link para dw dowloading do Git: https://git-scm.com/downloads
+
+O Gitbash, é um terminal estendido para otimizar o uso do Git.
+
+comandos do gitbash:
+git status: mostra o status do arquivo apontado para o versionamento do github
+
+git add . : adiociona e aponta que as alterações ou um novo arquivo criado está no local git e pronto para envio ao gitbub
+
+git commit -m "adionar comentário"(opcional) : cria um comentário das novas atualizações realizadas
+
+git push origin main : irá enviar definitivamente o arquivo para o Github
